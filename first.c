@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int amount=55521, _2000,_1000, _500, _100, _50, _10,_5,_2,_1;
+    int amount, _2000,_1000, _500, _100, _50, _10,_5,_2,_1;
     printf("Enter your amount:");
     scanf("%d", &amount);
     _2000 = amount / 2000;
